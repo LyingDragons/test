@@ -51,7 +51,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.teacher.App</mainClass>
+                    <mainClass>com.mj.App</mainClass>
                     <includeSystemScope>true</includeSystemScope>
                 </configuration>
                 <executions>
